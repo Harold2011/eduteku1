@@ -23,7 +23,7 @@
                 <div class="text-justify">
                     <p class="mb-8 leading-relaxed">{!! $bootcamp->description !!}</p>
                 </div>
-                
+            </div>
                 <!-- Patrocinadores -->
                 <div class="mt-10">
                     <h2 class="text-2xl font-bold mb-4 text-center">Instituciones participantes</h2>
@@ -63,7 +63,8 @@
                             @endif
                         </div>
                     </div>
-                </div>
+                      <!-- fin -->
+                
             </div>
         </div>
     </section>
